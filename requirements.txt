@@ -1,0 +1,11 @@
+# Core: feature extraction, Keras models (MLP / CNN / CNN+BiLSTM), evaluation, live demo
+# Python 3.10 - 3.12 recommended (TensorFlow wheels)
+tensorflow>=2.15,<2.21
+numpy
+librosa>=0.10
+soundfile
+scikit-learn
+joblib
+matplotlib
+opencv-python>=4.8,<5        # OpenCV 5 removed the Haar CascadeClassifier
+sounddevice

@@ -1,0 +1,8 @@
+.venv/
+.python/
+data/
+cache/
+saved_models/
+__pycache__/
+*.pyc
+.vscode/

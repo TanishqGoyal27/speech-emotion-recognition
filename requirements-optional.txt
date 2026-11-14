@@ -1,0 +1,7 @@
+# Optional extras
+# 1) DeepFace face-emotion backend (tf-keras is needed by DeepFace on TensorFlow >= 2.16)
+deepface
+tf-keras
+# 2) wav2vec2 fine-tuning (best run on Google Colab GPU)
+torch
+transformers>=4.38
